@@ -1,0 +1,41 @@
+
+.compute_text.data-v-57280228{
+	text-align: center;
+	margin-top: 4rem;
+}
+.font_title.data-v-57280228{
+	font-size: 0.27rem;
+	color: #353A47;
+	height: .5rem;
+	line-height: .5rem;
+	text-align: left;
+}
+.nav_list.data-v-57280228{
+	display: flex;
+	justify-content: space-around;
+}
+.activeNumber.data-v-57280228{
+	background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFwAAAAeCAYAAAChf3k/AAAAAXNSR0IArs4c6QAABK5JREFUaEPtmmtMHFUUx8//7s7u0FYoJaxGalBTSuIXtIqigbXEKrGNGjXUkFgfUJtgYvrJR/wifjFWU7W1aZPa4qMmxJJq1NQUU4NCEx9otX4wsdQHSVEL2QK7ILM7u/eYWfYxu+zMAqWJdGc/7e7c/5m5v/ufc+6ZXVC+FzM2HtYamLGJWd4KUBURSonZm096SR8HwkQ8BqZBhvga4KOfbVb7CWC7ecPyYAeLu9Zoj0HQc8RcRZSOAwKx6XNmjHRI411aVQh6DDLj5c/PqO9QB2QutjmBNx4KVnvgPsTMtZe0Sy/S5AAMRDi6pXdL8a/Zp5gFfMN7WhOx7AbxZRfpegoiLBNCBNF8/BG1xzzhDOAbOrUmErFPmNmTj0quW8M2eWUFLAQ9gAhJ173HW9PQU/NuPBisBokBInKcnc9t8zkOCjHL2t62mfQyA7yDxfqKqW+IuNZc8syF0VwAs91pdrajT66GeWMhBr4cXlZnFNI4H//+qVawPDifhXPGzo8AQ7T1bVveCSKGf9+kYfeq+YVwRs+TwGBf+4pq+PeE/BL8VfpGyAyTO12Y99dWu/CZ7x19mo9g3I76Nyd3MMlnUmSsWyH7BU2SdfSWnEDiFdy2O9hHzA0ZdkxCMyBaVUi7fZ2jT9/eZk5AP+reCP4N5iuSy8LZkLM+5zOwo88yqZkf8A/qdgY1ZjnzICpOM4HUnCLi703ZGIlNYnan4+ht+QEIo27nRCQmWTF4Zrg3yT2xQnHECcBx3qZXcj0cvQlKDn4AdNS/Nh7U9ER3mas3z+54cro6cSJHP7tgmvipCoWwcc/Eb+dC8trUyFmpJCtG3iSeGG9eKHOIAtZfXix+x+Nvh46dGo42xTnDlFbsnkQZ7ZIprafYOvp0Ws7Br+Yqdw9e75nqePfb8Au290KunaWVg1Nj8wwoQP2jt3hfxLmAfmfzgcmuiWkus+9sbI7mhZcncgHoS4oQ6N66ogVjY9OVu/uiu478oN+X3YpbGdsOX75n4nNN4VbnWKr65huVj5/yu7fHr/+vgLb94c7pp0cmZMWCXe4ILQn4isXw+21Fr15Zpu6KAx8Zi9xwcija+uwR7YlorMB/jV9k47hdCO94UH1rXaW701fq+TEOnJlxfkLf+sH3Ef/eL7SWGJNrructgPRri8Ju/i4g9uQd3q6HbvL0rSpRDgDgVEoMBrksIqPbDn8Xvm5fr9asx6iw/3cyV8dZjFNcFG5vVLs33+z9xSPc+4uLEUjsvNOKkRFtDRS0DPwR8710VLt/NCOnZz/ZtiqPVmWtcPTlJWL4+U3qR7XXuEZY5y6fTz2TpDyLjgFdeFzNui7Vvb3hmmM/6/Xj/8qFbxkv0ClLSb5ymQjcXaOcaF/vPaUoQpORWLcZ9iyHJydnpBdd6g9I5grj70OfntQr+0/rVX+O8urzU7GyiA41Jtm9lGAs9rW6BKIehbVVy12Bq8txtmGta/Cedd4hQUQCGFaE8mEyjZjPbbmtNQrp6Lh+vRBUz/ICmqLFnun/OB4EAlLSifKVyk9GgVxIHxPXGM1RRGIthFgNyDIAKksqaIdDUJSZNWYRYCnPegSfLi0tGsrnh/8AfWdo1BjUOEEAAAAASUVORK5CYII=);
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-weight: 500;
+	font-size: 0.25rem;
+	color: #FFFFFF;
+	width: 1.7rem;
+	height: .56rem;
+	line-height: .56rem;
+	text-align: center;
+}
+.nor_number.data-v-57280228{
+	width: 1.7rem;
+	height: .56rem;
+	text-align: center;
+	font-size: 0.25rem;
+	padding: .1rem;
+	color: #6F798D;
+	background: #EEF4FF;
+	border-radius: .4rem;
+	border: 1rpx solid #D8E4F5;
+}
+
+

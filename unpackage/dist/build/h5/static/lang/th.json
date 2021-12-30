@@ -1,0 +1,32 @@
+{
+	"trendview":{
+		"navtitle0":"รางวัลที่ 1",
+		"navtitle1":"เลขท้าย2ตัว",
+		"firstTrendView":"แนวโน้มรางวัลที่1",
+		"lastTwotrend":"แนวโน้มเลขท้าย2ตัว1",
+		"lastIssues0":"งวด24ล่าสุด",
+		"lastIssues1":"งวด48ล่าสุด",
+		"lastIssues2":"งวด72ล่าสุด",
+		"lastIssues3":"งวด96ล่าสุด",
+		"issueNumber":"หมายเลขงวด",
+		"number":"หมายเลข",
+		"firstTrend":"แนวโน้มรางวัลที่(1)",
+		"secondTrend":"แนวโน้มรางวัลที่(2)",
+		"thirdTrend":"แนวโน้มรางวัลที่(3)",
+		"fourthTrend":"แนวโน้มรางวัลที่(4)",
+		"fifthTrend":"แนวโน้มรางวัลที่(5)",
+		"sixthTrend":"แนวโน้มรางวัลที่(6)",
+		"big":"ใหญ่",
+		"small":"เล็ก",
+		"odd":"เลขคี่",
+		"even":"สม่ำเสมอ",
+		"Firstnumattr":"คุณสมบัติของเลขที่(1)",
+		"Secnumattr":"คุณสมบัติของเลขที่(2)",
+		"occurrenceNumber":"จำนวนครั้งที่ปรากฏ",
+		"maxOmission":"งวดที่ละเลยที่สุด",
+		"maxConnectout":"งวดออกต่อเนื่องใหญ่ที่สุด",
+		"averageMiss":"ค่าเฉลี่ยที่ละเลย",
+		"currentMiss":"งวดที่ละเลยถึงวันนี้",
+		"computed":"การคำนวณ..."
+	}
+}

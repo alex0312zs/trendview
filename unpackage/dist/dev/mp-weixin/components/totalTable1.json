@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "public-t1": "/components/bt/publicT1",
+    "public-t2": "/components/bt/publicT2",
+    "fir-table1": "/components/bt/firTable1",
+    "fir-table2": "/components/bt/firTable2"
+  }
+}

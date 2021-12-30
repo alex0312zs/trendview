@@ -1,0 +1,981 @@
+{
+    "count": 24,
+    "firstStatic": [
+        {
+            "permissstimes": 3,
+            "maxcontinuetimes": 3,
+            "maxmisstimes": 16,
+            "curmisstimes": 0,
+            "showtimes": 5
+        },
+        {
+            "permissstimes": 7,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 8,
+            "curmisstimes": 6,
+            "showtimes": 2
+        },
+        {
+            "permissstimes": 11,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 12,
+            "curmisstimes": 12,
+            "showtimes": 2
+        },
+        {
+            "permissstimes": 7,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 17,
+            "curmisstimes": 3,
+            "showtimes": 2
+        },
+        {
+            "permissstimes": 7,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 16,
+            "curmisstimes": 16,
+            "showtimes": 2
+        },
+        {
+            "permissstimes": 5,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 9,
+            "curmisstimes": 4,
+            "showtimes": 3
+        },
+        {
+            "permissstimes": 7,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 11,
+            "curmisstimes": 11,
+            "showtimes": 2
+        },
+        {
+            "permissstimes": 11,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 13,
+            "curmisstimes": 10,
+            "showtimes": 1
+        },
+        {
+            "permissstimes": 5,
+            "maxcontinuetimes": 2,
+            "maxmisstimes": 17,
+            "curmisstimes": 17,
+            "showtimes": 3
+        },
+        {
+            "permissstimes": 7,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 11,
+            "curmisstimes": 8,
+            "showtimes": 2
+        },
+        {
+            "permissstimes": 5,
+            "maxcontinuetimes": 2,
+            "maxmisstimes": 14,
+            "curmisstimes": 14,
+            "showtimes": 4
+        },
+        {
+            "permissstimes": 4,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 9,
+            "curmisstimes": 6,
+            "showtimes": 4
+        },
+        {
+            "permissstimes": 11,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 19,
+            "curmisstimes": 19,
+            "showtimes": 1
+        },
+        {
+            "permissstimes": 7,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 16,
+            "curmisstimes": 1,
+            "showtimes": 2
+        },
+        {
+            "permissstimes": 7,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 16,
+            "curmisstimes": 2,
+            "showtimes": 2
+        },
+        {
+            "permissstimes": 11,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 14,
+            "curmisstimes": 9,
+            "showtimes": 1
+        },
+        {
+            "permissstimes": 24,
+            "maxcontinuetimes": 0,
+            "maxmisstimes": 24,
+            "curmisstimes": 24,
+            "showtimes": 0
+        },
+        {
+            "permissstimes": 4,
+            "maxcontinuetimes": 2,
+            "maxmisstimes": 10,
+            "curmisstimes": 0,
+            "showtimes": 4
+        },
+        {
+            "permissstimes": 5,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 9,
+            "curmisstimes": 3,
+            "showtimes": 3
+        },
+        {
+            "permissstimes": 5,
+            "maxcontinuetimes": 2,
+            "maxmisstimes": 11,
+            "curmisstimes": 11,
+            "showtimes": 3
+        },
+        {
+            "permissstimes": 4,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 6,
+            "curmisstimes": 5,
+            "showtimes": 4
+        },
+        {
+            "permissstimes": 7,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 11,
+            "curmisstimes": 11,
+            "showtimes": 3
+        },
+        {
+            "permissstimes": 4,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 10,
+            "curmisstimes": 1,
+            "showtimes": 4
+        },
+        {
+            "permissstimes": 7,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 11,
+            "curmisstimes": 10,
+            "showtimes": 2
+        },
+        {
+            "permissstimes": 4,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 6,
+            "curmisstimes": 6,
+            "showtimes": 4
+        },
+        {
+            "permissstimes": 7,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 15,
+            "curmisstimes": 2,
+            "showtimes": 2
+        },
+        {
+            "permissstimes": 5,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 14,
+            "curmisstimes": 3,
+            "showtimes": 3
+        },
+        {
+            "permissstimes": 11,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 23,
+            "curmisstimes": 0,
+            "showtimes": 1
+        },
+        {
+            "permissstimes": 11,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 19,
+            "curmisstimes": 4,
+            "showtimes": 1
+        },
+        {
+            "permissstimes": 24,
+            "maxcontinuetimes": 0,
+            "maxmisstimes": 24,
+            "curmisstimes": 24,
+            "showtimes": 0
+        },
+        {
+            "permissstimes": 11,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 21,
+            "curmisstimes": 2,
+            "showtimes": 1
+        },
+        {
+            "permissstimes": 11,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 19,
+            "curmisstimes": 4,
+            "showtimes": 1
+        },
+        {
+            "permissstimes": 4,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 7,
+            "curmisstimes": 0,
+            "showtimes": 4
+        },
+        {
+            "permissstimes": 5,
+            "maxcontinuetimes": 2,
+            "maxmisstimes": 16,
+            "curmisstimes": 3,
+            "showtimes": 4
+        },
+        {
+            "permissstimes": 7,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 10,
+            "curmisstimes": 6,
+            "showtimes": 2
+        },
+        {
+            "permissstimes": 5,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 10,
+            "curmisstimes": 10,
+            "showtimes": 3
+        },
+        {
+            "permissstimes": 7,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 19,
+            "curmisstimes": 19,
+            "showtimes": 2
+        },
+        {
+            "permissstimes": 4,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 8,
+            "curmisstimes": 1,
+            "showtimes": 4
+        },
+        {
+            "permissstimes": 11,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 12,
+            "curmisstimes": 11,
+            "showtimes": 1
+        },
+        {
+            "permissstimes": 7,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 11,
+            "curmisstimes": 5,
+            "showtimes": 2
+        },
+        {
+            "permissstimes": 7,
+            "maxcontinuetimes": 2,
+            "maxmisstimes": 19,
+            "curmisstimes": 19,
+            "showtimes": 3
+        },
+        {
+            "permissstimes": 11,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 13,
+            "curmisstimes": 10,
+            "showtimes": 1
+        },
+        {
+            "permissstimes": 5,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 9,
+            "curmisstimes": 9,
+            "showtimes": 3
+        },
+        {
+            "permissstimes": 5,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 12,
+            "curmisstimes": 2,
+            "showtimes": 3
+        },
+        {
+            "permissstimes": 24,
+            "maxcontinuetimes": 0,
+            "maxmisstimes": 24,
+            "curmisstimes": 24,
+            "showtimes": 0
+        },
+        {
+            "permissstimes": 7,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 16,
+            "curmisstimes": 0,
+            "showtimes": 2
+        },
+        {
+            "permissstimes": 5,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 12,
+            "curmisstimes": 1,
+            "showtimes": 3
+        },
+        {
+            "permissstimes": 2,
+            "maxcontinuetimes": 3,
+            "maxmisstimes": 7,
+            "curmisstimes": 3,
+            "showtimes": 7
+        },
+        {
+            "permissstimes": 11,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 15,
+            "curmisstimes": 15,
+            "showtimes": 1
+        },
+        {
+            "permissstimes": 11,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 21,
+            "curmisstimes": 21,
+            "showtimes": 1
+        },
+        {
+            "permissstimes": 7,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 8,
+            "curmisstimes": 7,
+            "showtimes": 2
+        },
+        {
+            "permissstimes": 4,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 12,
+            "curmisstimes": 1,
+            "showtimes": 4
+        },
+        {
+            "permissstimes": 4,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 8,
+            "curmisstimes": 3,
+            "showtimes": 4
+        },
+        {
+            "permissstimes": 11,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 19,
+            "curmisstimes": 19,
+            "showtimes": 2
+        },
+        {
+            "permissstimes": 24,
+            "maxcontinuetimes": 0,
+            "maxmisstimes": 24,
+            "curmisstimes": 24,
+            "showtimes": 0
+        },
+        {
+            "permissstimes": 4,
+            "maxcontinuetimes": 2,
+            "maxmisstimes": 11,
+            "curmisstimes": 5,
+            "showtimes": 4
+        },
+        {
+            "permissstimes": 24,
+            "maxcontinuetimes": 0,
+            "maxmisstimes": 24,
+            "curmisstimes": 24,
+            "showtimes": 0
+        },
+        {
+            "permissstimes": 4,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 7,
+            "curmisstimes": 2,
+            "showtimes": 4
+        },
+        {
+            "permissstimes": 5,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 17,
+            "curmisstimes": 0,
+            "showtimes": 3
+        },
+        {
+            "permissstimes": 11,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 13,
+            "curmisstimes": 13,
+            "showtimes": 1
+        }
+    ],
+    "resultInfo": "",
+    "twoendStatic": [
+        {
+            "permissstimes": 11,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 16,
+            "curmisstimes": 16,
+            "showtimes": 1
+        },
+        {
+            "permissstimes": 2,
+            "maxcontinuetimes": 2,
+            "maxmisstimes": 11,
+            "curmisstimes": 11,
+            "showtimes": 6
+        },
+        {
+            "permissstimes": 7,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 13,
+            "curmisstimes": 7,
+            "showtimes": 2
+        },
+        {
+            "permissstimes": 7,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 15,
+            "curmisstimes": 3,
+            "showtimes": 2
+        },
+        {
+            "permissstimes": 11,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 12,
+            "curmisstimes": 12,
+            "showtimes": 1
+        },
+        {
+            "permissstimes": 7,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 13,
+            "curmisstimes": 1,
+            "showtimes": 2
+        },
+        {
+            "permissstimes": 11,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 15,
+            "curmisstimes": 8,
+            "showtimes": 1
+        },
+        {
+            "permissstimes": 5,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 8,
+            "curmisstimes": 6,
+            "showtimes": 4
+        },
+        {
+            "permissstimes": 7,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 19,
+            "curmisstimes": 0,
+            "showtimes": 2
+        },
+        {
+            "permissstimes": 5,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 14,
+            "curmisstimes": 2,
+            "showtimes": 3
+        },
+        {
+            "permissstimes": 1,
+            "maxcontinuetimes": 3,
+            "maxmisstimes": 5,
+            "curmisstimes": 0,
+            "showtimes": 12
+        },
+        {
+            "permissstimes": 0,
+            "maxcontinuetimes": 5,
+            "maxmisstimes": 3,
+            "curmisstimes": 3,
+            "showtimes": 12
+        },
+        {
+            "permissstimes": 0,
+            "maxcontinuetimes": 7,
+            "maxmisstimes": 2,
+            "curmisstimes": 1,
+            "showtimes": 17
+        },
+        {
+            "permissstimes": 2,
+            "maxcontinuetimes": 2,
+            "maxmisstimes": 7,
+            "curmisstimes": 0,
+            "showtimes": 7
+        },
+        {
+            "permissstimes": 1,
+            "maxcontinuetimes": 3,
+            "maxmisstimes": 8,
+            "curmisstimes": 0,
+            "showtimes": 9
+        },
+        {
+            "permissstimes": 2,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 4,
+            "curmisstimes": 1,
+            "showtimes": 6
+        },
+        {
+            "permissstimes": 1,
+            "maxcontinuetimes": 2,
+            "maxmisstimes": 7,
+            "curmisstimes": 7,
+            "showtimes": 9
+        },
+        {
+            "permissstimes": 7,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 13,
+            "curmisstimes": 5,
+            "showtimes": 3
+        },
+        {
+            "permissstimes": 24,
+            "maxcontinuetimes": 0,
+            "maxmisstimes": 24,
+            "curmisstimes": 24,
+            "showtimes": 0
+        },
+        {
+            "permissstimes": 11,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 23,
+            "curmisstimes": 0,
+            "showtimes": 1
+        },
+        {
+            "permissstimes": 5,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 10,
+            "curmisstimes": 4,
+            "showtimes": 3
+        },
+        {
+            "permissstimes": 11,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 13,
+            "curmisstimes": 13,
+            "showtimes": 1
+        },
+        {
+            "permissstimes": 4,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 9,
+            "curmisstimes": 2,
+            "showtimes": 4
+        },
+        {
+            "permissstimes": 11,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 15,
+            "curmisstimes": 15,
+            "showtimes": 1
+        },
+        {
+            "permissstimes": 5,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 9,
+            "curmisstimes": 1,
+            "showtimes": 3
+        },
+        {
+            "permissstimes": 7,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 10,
+            "curmisstimes": 3,
+            "showtimes": 2
+        },
+        {
+            "permissstimes": 2,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 6,
+            "curmisstimes": 6,
+            "showtimes": 6
+        },
+        {
+            "permissstimes": 0,
+            "maxcontinuetimes": 4,
+            "maxmisstimes": 2,
+            "curmisstimes": 1,
+            "showtimes": 16
+        },
+        {
+            "permissstimes": 2,
+            "maxcontinuetimes": 2,
+            "maxmisstimes": 4,
+            "curmisstimes": 0,
+            "showtimes": 8
+        },
+        {
+            "permissstimes": 0,
+            "maxcontinuetimes": 7,
+            "maxmisstimes": 3,
+            "curmisstimes": 1,
+            "showtimes": 16
+        },
+        {
+            "permissstimes": 2,
+            "maxcontinuetimes": 3,
+            "maxmisstimes": 7,
+            "curmisstimes": 0,
+            "showtimes": 8
+        },
+        {
+            "permissstimes": 1,
+            "maxcontinuetimes": 2,
+            "maxmisstimes": 2,
+            "curmisstimes": 1,
+            "showtimes": 11
+        },
+        {
+            "permissstimes": 1,
+            "maxcontinuetimes": 2,
+            "maxmisstimes": 4,
+            "curmisstimes": 2,
+            "showtimes": 9
+        },
+        {
+            "permissstimes": 5,
+            "maxcontinuetimes": 1,
+            "maxmisstimes": 13,
+            "curmisstimes": 0,
+            "showtimes": 4
+        }
+    ],
+    "listdata": [
+        {
+            "threefront": [
+                "739",
+                "740"
+            ],
+            "twoend": "82",
+            "threeend": [
+                "401",
+                "485"
+            ],
+            "firstprize": "077258",
+            "periodno": "20211116"
+        },
+        {
+            "threefront": [
+                "471",
+                "648"
+            ],
+            "twoend": "57",
+            "threeend": [
+                "245",
+                "844"
+            ],
+            "firstprize": "032761",
+            "periodno": "20211101"
+        },
+        {
+            "threefront": [
+                "247",
+                "458"
+            ],
+            "twoend": "95",
+            "threeend": [
+                "331",
+                "755"
+            ],
+            "firstprize": "045037",
+            "periodno": "20211016"
+        },
+        {
+            "threefront": [
+                "602",
+                "964"
+            ],
+            "twoend": "38",
+            "threeend": [
+                "295",
+                "798"
+            ],
+            "firstprize": "386372",
+            "periodno": "20211001"
+        },
+        {
+            "threefront": [
+                "285",
+                "361"
+            ],
+            "twoend": "83",
+            "threeend": [
+                "379",
+                "449"
+            ],
+            "firstprize": "578171",
+            "periodno": "20210916"
+        },
+        {
+            "threefront": [
+                "609",
+                "817"
+            ],
+            "twoend": "90",
+            "threeend": [
+                "007",
+                "379"
+            ],
+            "firstprize": "070935",
+            "periodno": "20210901"
+        },
+        {
+            "threefront": [
+                "278",
+                "302"
+            ],
+            "twoend": "79",
+            "threeend": [
+                "123",
+                "458"
+            ],
+            "firstprize": "114475",
+            "periodno": "20210816"
+        },
+        {
+            "threefront": [
+                "421",
+                "666"
+            ],
+            "twoend": "23",
+            "threeend": [
+                "160",
+                "355"
+            ],
+            "firstprize": "046750",
+            "periodno": "20210801"
+        },
+        {
+            "threefront": [
+                "103",
+                "307"
+            ],
+            "twoend": "69",
+            "threeend": [
+                "004",
+                "785"
+            ],
+            "firstprize": "910261",
+            "periodno": "20210716"
+        },
+        {
+            "threefront": [
+                "058",
+                "174"
+            ],
+            "twoend": "70",
+            "threeend": [
+                "233",
+                "927"
+            ],
+            "firstprize": "556725",
+            "periodno": "20210701"
+        },
+        {
+            "threefront": [
+                "073",
+                "794"
+            ],
+            "twoend": "29",
+            "threeend": [
+                "414",
+                "511"
+            ],
+            "firstprize": "713517",
+            "periodno": "20210616"
+        },
+        {
+            "threefront": [
+                "007",
+                "054"
+            ],
+            "twoend": "17",
+            "threeend": [
+                "447",
+                "668"
+            ],
+            "firstprize": "691861",
+            "periodno": "20210601"
+        },
+        {
+            "threefront": [
+                "193",
+                "620"
+            ],
+            "twoend": "45",
+            "threeend": [
+                "723",
+                "978"
+            ],
+            "firstprize": "292972",
+            "periodno": "20210516"
+        },
+        {
+            "threefront": [
+                "615",
+                "843"
+            ],
+            "twoend": "14",
+            "threeend": [
+                "276",
+                "970"
+            ],
+            "firstprize": "684579",
+            "periodno": "20210501"
+        },
+        {
+            "threefront": [
+                "018",
+                "306"
+            ],
+            "twoend": "18",
+            "threeend": [
+                "129",
+                "498"
+            ],
+            "firstprize": "501272",
+            "periodno": "20210416"
+        },
+        {
+            "threefront": [
+                "013",
+                "143"
+            ],
+            "twoend": "56",
+            "threeend": [
+                "264",
+                "478"
+            ],
+            "firstprize": "100787",
+            "periodno": "20210401"
+        },
+        {
+            "threefront": [
+                "283",
+                "755"
+            ],
+            "twoend": "05",
+            "threeend": [
+                "393",
+                "577"
+            ],
+            "firstprize": "472270",
+            "periodno": "20210316"
+        },
+        {
+            "threefront": [
+                "036",
+                "902"
+            ],
+            "twoend": "19",
+            "threeend": [
+                "256",
+                "396"
+            ],
+            "firstprize": "890422",
+            "periodno": "20210301"
+        },
+        {
+            "threefront": [
+                "290",
+                "838"
+            ],
+            "twoend": "73",
+            "threeend": [
+                "051",
+                "806"
+            ],
+            "firstprize": "835538",
+            "periodno": "20210216"
+        },
+        {
+            "threefront": [
+                "318",
+                "861"
+            ],
+            "twoend": "39",
+            "threeend": [
+                "057",
+                "817"
+            ],
+            "firstprize": "424603",
+            "periodno": "20210201"
+        },
+        {
+            "threefront": [
+                "248",
+                "605"
+            ],
+            "twoend": "97",
+            "threeend": [
+                "282",
+                "651"
+            ],
+            "firstprize": "912307",
+            "periodno": "20210116"
+        },
+        {
+            "threefront": [
+                "367",
+                "653"
+            ],
+            "twoend": "15",
+            "threeend": [
+                "566",
+                "878"
+            ],
+            "firstprize": "384395",
+            "periodno": "20210101"
+        },
+        {
+            "threefront": [
+                "336",
+                "804"
+            ],
+            "twoend": "19",
+            "threeend": [
+                "321",
+                "924"
+            ],
+            "firstprize": "803628",
+            "periodno": "20201216"
+        },
+        {
+            "threefront": [
+                "377",
+                "828"
+            ],
+            "twoend": "70",
+            "threeend": [
+                "072",
+                "517"
+            ],
+            "firstprize": "201303",
+            "periodno": "20201201"
+        }
+    ],
+    "resultCode": 0
+}

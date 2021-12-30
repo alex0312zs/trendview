@@ -1,0 +1,32 @@
+{
+	"trendview":{
+		"navtitle0":"一等奖",
+		"navtitle1":"后两位",
+		"firstTrendView":"一等奖走势图",
+		"lastTwotrend":"后两位走势图",
+		"lastIssues0":"最近24期",
+		"lastIssues1":"最近48期",
+		"lastIssues2":"最近72期",
+		"lastIssues3":"最近96期",
+		"issueNumber":"期数",
+		"number":"号码",
+		"firstTrend":"第一位走势",
+		"secondTrend":"第二位走势",
+		"thirdTrend":"第三位走势",
+		"fourthTrend":"第四位走势",
+		"fifthTrend":"第五位走势",
+		"sixthTrend":"第六位走势",
+		"big":"大",
+		"small":"小",
+		"odd":"奇数",
+		"even":"偶数",
+		"Firstnumattr":"第一位号码属性",
+		"Secnumattr":"第二位号码属性",
+		"occurrenceNumber":"出现次数",
+		"maxOmission":"最大遗漏期数",
+		"maxConnectout":"最大连出期数",
+		"averageMiss":"平均遗漏值",
+		"currentMiss":"当前遗漏期数",
+		"computed":"计算中..."
+	}
+}

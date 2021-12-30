@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "组件",
+  "usingComponents": {
+    "u-picker": "/node-modules/uview-ui/components/u-picker/u-picker",
+    "total-table1": "/components/totalTable1",
+    "total-table2": "/components/totalTable2"
+  }
+}

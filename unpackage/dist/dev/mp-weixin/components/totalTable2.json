@@ -1,0 +1,9 @@
+{
+  "component": true,
+  "usingComponents": {
+    "public-t1": "/components/bt/publicT1",
+    "public-t2": "/components/bt/publicT2",
+    "sec-table1": "/components/bt/secTable1",
+    "sec-table2": "/components/bt/secTable2"
+  }
+}
